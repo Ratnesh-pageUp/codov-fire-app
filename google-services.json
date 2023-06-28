@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962288386401",
+    "project_id": "fire-cordova",
+    "storage_bucket": "fire-cordova.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962288386401:android:a94acad32acb9a108c4520",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962288386401-i4f1p6igj208m7mtba0ov03evclb5jcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNB3QpWgH4L7amV03fxxqRWKNxsQA-oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962288386401-i4f1p6igj208m7mtba0ov03evclb5jcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
